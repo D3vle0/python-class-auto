@@ -13,7 +13,7 @@ cd python-class-auto
 pip install selenium
 ```
 <a href="https://chromedriver.storage.googleapis.com/index.html" target="_blank">이곳에서</a> 자신의 크롬 브라우저 버전과 운영체제에 맞는 드라이버를 다운받아 `python-class-auto` 폴더로 이동시킵니다.
-## :tools: credentials.json
+## :wrench: credentials.json
 ```json
 {
 "email":"",
