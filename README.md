@@ -23,11 +23,11 @@ pip install selenium
 "chromedriver_path":""
 }
 ```
-`email` : dimigo.biz 로그인에 사용되는 이메일
-`pw`: 비밀번호
-`std`: 학번 이름
-`proj_folder`: 업로드할 파이썬 파일 폴더의 경로
-`chromedriver_path`: 크롬드라이버 파일 경로
+`email` : dimigo.biz 로그인에 사용되는 이메일  
+`pw`: 비밀번호  
+`std`: 학번 이름  
+`proj_folder`: 업로드할 파이썬 파일 폴더의 경로  
+`chromedriver_path`: 크롬드라이버 파일 경로  
 
 example
 ```json
